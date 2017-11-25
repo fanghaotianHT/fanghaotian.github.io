@@ -7,7 +7,7 @@ description: "Stay hungry,stay foolish."
 keyword: "HT, HT Blog, 方浩天的博客, fanghaotian, 方浩天, curry,nba， Apple, iPhone"
 url: "https://fanghaotian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/fanghaotian/fanghaotianHT.github.io.git" # you code repository
+github_repo: "https://github.com/fanghaotianHT/fanghaotian.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
