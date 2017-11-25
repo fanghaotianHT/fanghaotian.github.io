@@ -1,10 +1,10 @@
 # Site settings
 title: HT Blog
-SEOTitle: 浩天的博客 | HT Blog
+SEOTitle: 方浩天的博客 | HT Blog
 header-img: img/post-bg-desk.jpg
 email: 1479794847@qq.com
 description: "Stay hungry,stay foolish."
-keyword: "HT, HT Blog, 浩天的博客, fanghaotian, 方浩天, curry,nba， Apple, iPhone"
+keyword: "HT, HT Blog, 方浩天的博客, fanghaotian, 方浩天, curry,nba， Apple, iPhone"
 url: "https://fanghaotian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fanghaotian/fanghaotianHT.github.io.git" # you code repository
