@@ -1,8 +1,8 @@
----
+﻿---
 layout:     post                    
 title:      My First Post             
 subtitle:   Hello World, Hello Blog 
-date:       2017-02-06              
+date:       2017-11-25             
 author:     HT                     
 header-img: img/post-bg-2015.jpg    
 catalog: true                       
@@ -10,7 +10,7 @@ tags:
     - 生活
 ---
 
-## Hey
+# Hey
 >这是我的第一篇博客。
 
 作者：HTFang
