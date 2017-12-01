@@ -12,7 +12,7 @@ github_repo: "https://github.com/fanghaotianHT/fanghaotianHT.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "God doesn't play dice with the universe."
-sidebar-avatar: /img/EBE10DC57C14B90282B1D07792D81490.png     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/haha.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
