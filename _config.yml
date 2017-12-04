@@ -69,7 +69,7 @@ disqus_username: fanghaotianHT
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 1880568bcada311a9668615ba136aebe
 
 # Google Analytics
 ga_track_id: 'UA-110085522-1'            # Format: UA-xxxxxx-xx
