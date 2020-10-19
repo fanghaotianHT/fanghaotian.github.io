@@ -1,3 +1,16 @@
+---
+layout:     post                    
+title:      java与python交互             
+subtitle:   jython
+date:       2020-10-19           
+author:     HT                     
+header-img: img/code.jpg    
+catalog: true                       
+tags:                               
+    - java 
+    - python
+---
+
 # Java与python交互
 
 ## java中调用python
